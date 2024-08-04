@@ -28,8 +28,11 @@ Notebooks:
     - *NumPy Arrays*: Converting Pillow images to NumPy arrays for manipulation.
 
 - 2.1.2_Images_with_python_library_CV
-  - Description:
+  - Description: This notebook, like the previous one using Pillow (PIL), covers image processing basics but focuses on OpenCV for its advanced capabilities in computer vision. 
   - Main Topics:
+    - Same as in 2.1.1_Images_with_python_library_PIL
+
+
 
 ### Module 3
 Description from Coursera: 
