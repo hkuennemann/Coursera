@@ -8,7 +8,10 @@ The repository is organized into directories, each corresponding to a specific c
 
 ## Courses Included
 This repository currently includes projects from the following Coursera courses:
-- Introduction to Computer Vision and Image Processing [IBM] 🔗 [Go to course website](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+- Introduction to Computer Vision and Image Processing [IBM]
+  🔗 [Go to course website](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+- Soon to come
+  🔗 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
