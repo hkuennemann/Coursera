@@ -158,7 +158,7 @@ cython_debug/
 .DS_Store
 
 # The pictures needed for the tasks can all be downloaded from the notebooks themselves
-.png
+*.jpg\n*.jpeg\n*.png\n*.gif\n
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
