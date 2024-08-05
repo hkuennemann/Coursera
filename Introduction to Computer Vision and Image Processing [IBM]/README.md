@@ -83,12 +83,16 @@ Notebooks:
     - *Practical applications and visualizations of these techniques*
 
 ### Module 3
-Description from Coursera: 
+Description from Coursera: In this module, you will Learn About the different Machine learning classification Methods commonly used for Computer vision, including k nearest neighbours, Logistic regression, SoftMax Regression and Support Vector Machines. Finally, you will learn about Image features.
 
 Notebooks:
-- Notebook
-  - Description:
+- 3.1_Logistic Regression With Mini-Batch Gradient Descent
+  - Description:  This notebook provides a step-by-step guide on how to implement and train a logistic regression model using PyTorch and mini-batch gradient descent. The process includes creating a dataset, defining the model architecture, setting up the loss function and optimizer, and visualizing the training process.
   - Main Topics:
+    - Create the Model and Total Loss Function (Cost)
+    - Setting the Batch Size using a Data Loader
+    - Setting the Learning Rate
+    - Train the Model via Mini-Batch Gradient Descent
 
 - Notebook
   - Description:
