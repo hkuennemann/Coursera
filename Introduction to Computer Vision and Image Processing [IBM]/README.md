@@ -56,7 +56,11 @@ Notebooks:
     - *Intensity Transformations*: Image negatives, Brightness and contrast adjustments, Histogram Equalization
     - *Thresholding and Segmentation*: Manual thresholding, Automated thresholding using Otsu's method
 
-- Notebook
+- 2.4.1_Gemetric_transforms_PIL
+  - Description:
+  - Main Topics:
+
+- 2.4.2_Gemetric_transforms_OpenCV
   - Description:
   - Main Topics:
 
@@ -68,10 +72,6 @@ Notebooks:
   - Description:
   - Main Topics:
 
-- Notebook
-  - Description:
-  - Main Topics:
-  
 ### Module 3
 Description from Coursera: 
 
