@@ -10,8 +10,10 @@ This course does not require any prior Machine Learning or Computer Vision exper
 Top skills gained in this course: Category: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.
 
 ## Course Content and Notebooks
+
 ### Module 1
 Description from Coursera: In this module, we will discuss the rapidly developing field of image processing. In addition to being the first step in Computer Vision, it has broad applications ranging anywhere from making your smartphone's image look crystal clear to helping doctors cure diseases.
+
 
 ### Module 2
 Description from Coursera: Image processing enhances images or extracts useful information from the image. In this module, we will learn the basics of image processing with Python libraries OpenCV and Pillow.
@@ -82,6 +84,7 @@ Notebooks:
     - *Thresholding*
     - *Practical applications and visualizations of these techniques*
 
+
 ### Module 3
 Description from Coursera: In this module, you will Learn About the different Machine learning classification Methods commonly used for Computer vision, including k nearest neighbours, Logistic regression, SoftMax Regression and Support Vector Machines. Finally, you will learn about Image features.
 
@@ -103,7 +106,15 @@ Notebooks:
     - Create a Data Loader and set the Batch Size
     - Train a Model
     - Analyze Results and Model
-  
+
+- 3.3_Support_Vector_Machines_vs_Vanilla_Linear_Classifier
+  - Description: This notebook classifies the popular handwritten digit dataset from sklearn, comparing the results of logistic regression and Support Vector Machines (SVM). It demonstrates the use of logistic regression with the multinomial option and SVM for image classification, and evaluates the performance using confusion matrices and k-fold cross-validation.
+  - Main Topics:
+    - Plotting an Image
+    - Preprocess data for Logistic Regression
+    - Logistic Regression with SkLearn
+    - SVM for Image Classification with SkLearn
+    - Comparing both SVM and Logistic Regression with K-Fold Cross Validation
 
 ### Module 4
 Description from Coursera: 
@@ -117,6 +128,7 @@ Notebooks:
   - Description:
   - Main Topics:
 
+
 ### Module 5
 Description from Coursera: 
 
@@ -129,6 +141,7 @@ Notebooks:
   - Description:
   - Main Topics:
 
+
 ### Module 6
 Description from Coursera: 
 
@@ -140,6 +153,7 @@ Notebooks:
 - Notebook
   - Description:
   - Main Topics:
+
 
 ## Disclaimer
 This project notebook is part of the coursework for "Introduction to Computer Vision and Image Processing" on Coursera (🔗 [Go to course](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)). It is intended for educational purposes only. For official content and certification, please refer to the Coursera course page.
