@@ -7,6 +7,8 @@ This is a hands-on course and involves several labs and exercises. Labs will com
 
 This course does not require any prior Machine Learning or Computer Vision experience. However, some knowledge of the Python programming language and high school math is necessary.
 
+Top skills gained in this course: Category: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.
+
 ## Course Content and Notebooks
 ### Module 1
 Description from Coursera: In this module, we will discuss the rapidly developing field of image processing. In addition to being the first step in Computer Vision, it has broad applications ranging anywhere from making your smartphone's image look crystal clear to helping doctors cure diseases.
@@ -32,7 +34,21 @@ Notebooks:
   - Main Topics:
     - Same as in 2.1.1_Images_with_python_library_PIL
 
+- 2.2.1_basic_image_manipulation_PIL
+  - Description: This notebook teaches image manipulation using the PIL library, focusing on copying, flipping, and cropping images. It covers changing specific pixels, drawing shapes, overlaying text, and superimposing images. The exercises involve practical applications such as flipping and mirroring images, emphasizing the avoidance of aliasing through proper image copying. Various techniques for flipping and cropping images are demonstrated using both array slicing and PIL methods.
+  - Main Topics: 
+    - Copying Images to Avoid Aliasing
+    - Flipping Images
+    - Cropping Images
+    - Changing Specific Image Pixels
+    - Drawing Shapes and Overlaying Text on Images
 
+- 2.2.2_basic_image_manipulation_open_CV  
+  - Description: This notebook teaches image manipulation using OpenCV, including copying to avoid aliasing, flipping, cropping, and altering specific pixels. It expands on the previous notebook by focusing on flipping images around different axes and overlaying text and shapes on images, providing additional practical examples and exercises.
+  - Main Topics:
+    - Same as in 2.2.1_basic_image_manipulation_PIL
+
+- 2.3.1
 
 ### Module 3
 Description from Coursera: 
