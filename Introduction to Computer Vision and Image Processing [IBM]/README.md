@@ -57,20 +57,30 @@ Notebooks:
     - *Thresholding and Segmentation*: Manual thresholding, Automated thresholding using Otsu's method
 
 - 2.4.1_Gemetric_transforms_PIL
-  - Description:
+  - Description: This notebook provides a tutorial on applying geometric transformations and mathematical operations to images using the Pillow library in Python. It covers techniques for scaling, translating, and rotating images, as well as performing array and matrix operations to manipulate image data.
   - Main Topics:
+    - *Geometric Operations*: Scaling, Translation, Rotation
+    - *Mathematical Operations*: Array Operations, Matrix Operations
 
 - 2.4.2_Gemetric_transforms_OpenCV
-  - Description:
+  - Description: This notebook covers techniques such as scaling, translating, and rotating images, as well as performing array and matrix operations to manipulate image data. The primary difference to 2.4.1_Gemetric_transforms_PIL is the use of the cv2 module from OpenCV for image manipulations instead of the PIL module. 
   - Main Topics:
+    - Same as in 2.4.1_Gemetric_transforms_PIL
 
-- Notebook
-  - Description:
+- 2.5.1_Spatial_Filtering-PIL
+  - Description: This notebook provides an introduction to spatial operations in image processing using the Pillow library in Python. It covers various filtering techniques, including noise reduction, Gaussian blur, and image sharpening, and demonstrates how to detect edges and apply median filtering. The notebook includes practical examples with images to illustrate the effects of different filters and operations.
   - Main Topics:
+    - *Introduction to Spatial Operations in Image Processing*
+    - *Linear Filtering*: Filtering Noise, Gaussian Blur, Image Sharpening
+    - *Edge Detection*
+    - *Median Filtering*
 
-- Notebook
-  - Description:
+- 2.5.2_Spatial_Filtering
+  - Description: This notebook, like the previous one, focuses on geometric operations and mathematical tools in image processing using OpenCV. However, it places a stronger emphasis on practical applications of spatial operations such as linear filtering, Gaussian blur, and edge detection. It introduces various methods for image enhancement and noise reduction, including median filtering and thresholding, and compares different techniques for image sharpening and edge detection. The practical aspect is highlighted through hands-on examples and visualizations of the effects of these techniques.
   - Main Topics:
+    - Same as in 2.5.1_Spatial_Filtering-PIL
+    - *Thresholding*
+    - *Practical applications and visualizations of these techniques*
 
 ### Module 3
 Description from Coursera: 
