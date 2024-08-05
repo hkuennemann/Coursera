@@ -48,8 +48,30 @@ Notebooks:
   - Main Topics:
     - Same as in 2.2.1_basic_image_manipulation_PIL
 
-- 2.3.1
+- 2.3.2_Histograms_and_Intensity_Transformations
+  - Description: This notebook provides a comprehensive tutorial on pixel transformations for image processing, focusing on creating histograms, applying intensity transformations, and using thresholding for image segmentation. The tutorial demonstrates various techniques to enhance image characteristics, such as adjusting contrast and brightness, generating image negatives, and equalizing histograms to improve visual analysis.
+  - Main Topics:
+    - *Pixel Transforms*: Histograms, Intensity Transformations, Thresholding and Simple Segmentation
+    - *Histogram Analysis*: Creating and interpreting histograms, Grayscale histograms, Color channel histograms
+    - *Intensity Transformations*: Image negatives, Brightness and contrast adjustments, Histogram Equalization
+    - *Thresholding and Segmentation*: Manual thresholding, Automated thresholding using Otsu's method
 
+- Notebook
+  - Description:
+  - Main Topics:
+
+- Notebook
+  - Description:
+  - Main Topics:
+
+- Notebook
+  - Description:
+  - Main Topics:
+
+- Notebook
+  - Description:
+  - Main Topics:
+  
 ### Module 3
 Description from Coursera: 
 
