@@ -94,9 +94,16 @@ Notebooks:
     - Setting the Learning Rate
     - Train the Model via Mini-Batch Gradient Descent
 
-- Notebook
-  - Description:
+- 3.2_Digit_Classification_with_Softmax
+  - Description: This notebook guides you through the process of building, training, and evaluating a Softmax classifier for digit classification using the MNIST dataset in PyTorch.
   - Main Topics:
+    - Download the Training and Validation MNIST Digit Images
+    - Create a Softmax Classifier using PyTorch
+    - Create a Criterion, Optimizer, and Data Loaders
+    - Create a Data Loader and set the Batch Size
+    - Train a Model
+    - Analyze Results and Model
+  
 
 ### Module 4
 Description from Coursera: 
