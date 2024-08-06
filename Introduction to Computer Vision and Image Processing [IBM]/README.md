@@ -163,18 +163,5 @@ Description from Coursera: In this module, you will learn about object detection
     - Object Detection
 
 
-### Module 6
-Description from Coursera: 
-
-#### Notebooks
-- Notebook
-  - Description:
-  - Main Topics:
-
-- Notebook
-  - Description:
-  - Main Topics:
-
-
 ## Disclaimer
 This project notebook is part of the coursework for "Introduction to Computer Vision and Image Processing" on Coursera (🔗 [Go to course](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)). It is intended for educational purposes only. For official content and certification, please refer to the Coursera course page.
