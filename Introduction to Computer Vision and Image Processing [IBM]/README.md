@@ -152,16 +152,15 @@ Description from Coursera: In this module, you will learn about Neural Networks,
 
 
 ### Module 5
-Description from Coursera: 
+Description from Coursera: In this module, you will learn about object detection with different methods. The first approach is using the Haar Cascade classifier, the second one is to use R-CNN and MobileNet.
 
 #### Notebooks
-- Notebook
-  - Description:
+- 5.1_use-objectdetection-faster-r-cnn
+  - Description: This notebook provides a practical introduction to using Faster R-CNN for object detection. It is about how to detect and localize objects within images, leveraging a pre-trained model on the COCO dataset, and use the likelihood of object predictions to refine the results.
   - Main Topics:
-
-- Notebook
-  - Description:
-  - Main Topics:
+    - Faster R-CNN
+    - Object Localization
+    - Object Detection
 
 
 ### Module 6
