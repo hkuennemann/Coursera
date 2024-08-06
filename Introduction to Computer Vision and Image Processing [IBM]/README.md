@@ -18,7 +18,7 @@ Description from Coursera: In this module, we will discuss the rapidly developin
 ### Module 2
 Description from Coursera: Image processing enhances images or extracts useful information from the image. In this module, we will learn the basics of image processing with Python libraries OpenCV and Pillow.
 
-Notebooks:
+#### Notebooks
 - 2.1.1_Images_with_python_library_PIL
   - Description: This notebook provides an introduction to image processing with Python. It covers essential techniques such as loading, displaying, and manipulating images using the `Pillow` (PIL) library, and converting images to `NumPy` arrays for advanced processing. Key operations include working with image files, grayscale conversion, color channels, and quantization.
   - Main Topics:
@@ -88,7 +88,7 @@ Notebooks:
 ### Module 3
 Description from Coursera: In this module, you will Learn About the different Machine learning classification Methods commonly used for Computer vision, including k nearest neighbours, Logistic regression, SoftMax Regression and Support Vector Machines. Finally, you will learn about Image features.
 
-Notebooks:
+#### Notebooks
 - 3.1_Logistic Regression With Mini-Batch Gradient Descent
   - Description:  This notebook provides a step-by-step guide on how to implement and train a logistic regression model using PyTorch and mini-batch gradient descent. The process includes creating a dataset, defining the model architecture, setting up the loss function and optimizer, and visualizing the training process.
   - Main Topics:
@@ -116,23 +116,45 @@ Notebooks:
     - SVM for Image Classification with SkLearn
     - Comparing both SVM and Logistic Regression with K-Fold Cross Validation
 
+
 ### Module 4
-Description from Coursera: 
+Description from Coursera: In this module, you will learn about Neural Networks, fully connected Neural Networks, and Convolutional Neural Network (CNN). You will learn about different components such as Layers and different types of activation functions such as ReLU. You also get to know the different CNN Architecture such as ResNet and LenNet.
 
-Notebooks:
-- Notebook
-  - Description:
+#### Notebooks
+- 4.1_Simple_Neural_Network_for_XOR
+  - Description: This notebook provides a practical guide to creating and training a neural network with one hidden layer to classify noisy XOR data. It demonstrates how varying the number of neurons in the hidden layer affects the model's performance.
   - Main Topics:
+    - Neural Network Module and Training Function
 
-- Notebook
-  - Description:
+- 4.2_Neural-Network_ReLU_vs_Sigmoid
+  - Description: This notebook explores the performance of Sigmoid and ReLU activation functions in neural networks. It defines, trains, and evaluates neural networks with these activation functions on the MNIST dataset, and compares the results.
   - Main Topics:
+    - Neural Network Module and Training Function
+    - Sigmoid and Relu activation functions
+
+- 4.3_Training_A_Neural-Network_with_Momentum
+  - Description: This notebook demonstrates how varying momentum parameters affect the convergence rate of a neural network during training. It involves training different neural network models with various momentum values and comparing their results in terms of loss and accuracy.
+  - Main Topics:
+    - Neural Network Module and Function for Training
+    - Train Different Neural Networks with Different Momentum Values
+
+- 4.4_CNN
+  - Description: This notebook demonstrates how to use a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST database. It includes steps for reshaping images for faster processing, building a CNN model, training the model, and analyzing the results.
+  - Main Topics:
+    - Convolutional Neural Network
+    - Define Softmax, Criterion function, Optimizer, and Train the Model
+
+- 4.5_Data_Augmentation
+  - Description: In this notebook, we train a Convolutional Neural Network (CNN) on both regular and augmented (rotated) data to demonstrate how data augmentation can improve model generalization. The goal is to show that training with augmented data enhances performance on realistic, imperfect images.
+  - Main Topics:
+    - Convolutional Neural Network
+    - Data Augmentation
 
 
 ### Module 5
 Description from Coursera: 
 
-Notebooks:
+#### Notebooks
 - Notebook
   - Description:
   - Main Topics:
@@ -145,7 +167,7 @@ Notebooks:
 ### Module 6
 Description from Coursera: 
 
-Notebooks:
+#### Notebooks
 - Notebook
   - Description:
   - Main Topics:
