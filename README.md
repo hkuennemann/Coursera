@@ -14,13 +14,13 @@ This repository currently includes projects from the following Coursera courses:
 
 ### Introduction to Computer Vision and Image Processing [IBM]
 
-  🖋️ *Description*: This course covered the fundamentals of computer vision and its applications in various industries, such as self-driving cars and robotics. Using Python, Pillow, and OpenCV, it involved basic image processing, image classification, and object detection. The course was hands-on, with labs combining Jupyter Labs and Computer Vision Learning Studio (CV Studio). It included training and testing custom image classifiers and detection models.<br/>
+- 🖋️ *Description*: This course covered the fundamentals of computer vision and its applications in various industries, such as self-driving cars and robotics. Using Python, Pillow, and OpenCV, it involved basic image processing, image classification, and object detection. The course was hands-on, with labs combining Jupyter Labs and Computer Vision Learning Studio (CV Studio). It included training and testing custom image classifiers and detection models.<br/>
   
-  🌟 *Skills acquired*: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.<br/>
+- 🌟 *Skills acquired*: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.<br/>
   
-  ✅ *Status*: complete<br/>
+- ✅ *Status*: complete<br/>
   
-  🔗 [Go to course website](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
+- 🔗 [Go to course website](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
 
 
 ## License
