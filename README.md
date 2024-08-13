@@ -23,6 +23,29 @@ This repository currently includes projects from the following Coursera courses:
 - 🔗 [Go to course website](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv)
 
 
+### Getting Started with Git and GitHub [IBM]
+
+- 🖋️ *Description*: This course was about understanding and applying version control in the context of social and collaborative coding. It covered the basics of Git, including key concepts such as repositories and branches, essential for distributed version control. I learned how to create GitHub repositories, manage branches, and perform pull requests (PRs) and merge operations, enabling effective team collaboration on projects. The course also guided participants in building their portfolios by creating and sharing open-source projects on GitHub.<br/>
+  
+- 🌟 *Skills acquired*: `Distributed Version Control Systems (DVCS)`, `Git (Software)`, `GitHub`, `Cloning and forking`.<br/>
+  
+- ✅ *Status*: complete<br/>
+  
+- 🔗 [Go to course website](https://www.coursera.org/learn/getting-started-with-git-and-github)
+
+
+### Databases and SQL for Data Science with Python [IBM]
+
+- 🖋️ *Description*: In this course, I developed a solid understanding of SQL, starting with the basics like writing SELECT, INSERT, UPDATE, and DELETE statements. I learned how to filter and organize data, differentiate between DML and DDL, and manage tables. As I progressed, I was introduced to more advanced topics like JOINs, Stored Procedures, and ACID Transactions, which I found challenging but rewarding.<br/>
+I had the chance to practice what I learned through hands-on labs, working with real databases and data science tools. By the end of the course, I felt more confident in my ability to use SQL, especially after applying my skills to analyze real-world datasets in the final project.<br/>
+  
+- 🌟 *Skills acquired*: `Not yet achieved`.<br/>
+  
+- ✅ *Status*: WIP<br/>
+  
+- 🔗 [Go to course website](https://www.coursera.org/learn/sql-data-science)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
