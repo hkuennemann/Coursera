@@ -61,7 +61,23 @@ Description from Coursera: In this module you will learn the basic concepts of u
 
 ### Module 5
 
-Description from Coursera:
+Description from Coursera: In this module, you will be working with multiple real-world datasets for the city of Chicago. You will be asked questions that will help you understand the data just as you would in the real world. You will be assessed on the correctness of your SQL queries and results.
+
+#### Notebooks
+
+5.1.RealDataPractice-v5_sqlite_Learner
+- Description: This notebook provided a hands-on experience in working with a real-world dataset using SQL and Python. Using data from the Chicago Public Schools' 2011-2012 School Report Cards, I learned how to connect to a SQLite database, load data from CSV files into the database, and perform various SQL queries to extract, manipulate, and analyze the data. I practiced retrieving metadata, solving specific problems using SQL queries, and applying built-in SQL functions for data analysis.<br/>
+- Main Topics:
+    - SQL Database Connection
+    - Data Loading (CSV to SQLite)
+    - Metadata Retrieval
+    - SQL Querying
+    - Data Manipulation
+    - Data Analysis
+
+5.2.
+- Description: .<br/>
+- Main Topics:
 
 ### Module 6 (Honors)
 
