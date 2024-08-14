@@ -50,6 +50,15 @@ Description from Coursera: In this module you will learn the basic concepts of u
     - Data Visualization
     - ipython-sql Extension
 
+4.3.Analyzing_SQLite
+- Description: This lab guided me through analyzing a real-world dataset using SQL and Python. I worked with Chicago’s socioeconomic indicators dataset, learned how to store data in an SQLite database, executed SQL queries, and visualized results using Python.<br/>
+- Main Topics
+    - SQLite Database**
+    - SQL Queries
+    - Data Visualization
+    - Pandas Integration
+
+
 ### Module 5
 
 Description from Coursera:
