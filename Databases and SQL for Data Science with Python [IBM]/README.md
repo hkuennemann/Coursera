@@ -25,7 +25,7 @@ Description from Coursera: In this module you will learn the basic concepts of u
 
 #### Notebooks
 
-4.1.Insert_Update_SQLite.ipynb
+4.1.Insert_Update_SQLite
 - Description: This notebook is a step-by-step guide to creating and working with a SQLite database using Python. It covers the basics of setting up a database, creating tables, inserting data, querying data, and retrieving results into a Pandas dataframe. The notebook also includes a task on updating records and emphasizes the importance of closing database connections to free up resources.<br/>
 - Main Topics:
     - SQLite database creation
@@ -36,6 +36,19 @@ Description from Coursera: In this module you will learn the basic concepts of u
     - Pandas dataframe integration
     - Database connection management
     - SQL update statements
+
+4.2.SQLmagic_SQlite
+- Description: This notebook provided a hands-on introduction to using SQL within a JupyterLab environment, specifically leveraging SQL "magic" commands. It guided users through creating and connecting to an SQLite database, executing SQL queries, and manipulating data within the database. The notebook also demonstrated how to integrate SQL queries with Python, convert query results into pandas DataFrames, and visualize data using the seaborn library. Overall, it aimed to enhance SQL skills for simplified database access and analysis.<br/>
+- Main Topics: 
+    - SQL Magic
+    - JupyterLab
+    - SQLite
+    - SQL Queries
+    - Database Management
+    - Python Integration
+    - DataFrame Conversion
+    - Data Visualization
+    - ipython-sql Extension
 
 ### Module 5
 
