@@ -5,9 +5,7 @@ As part of this course, you will utilize Python, Pillow, and OpenCV for basic im
 
 This is a hands-on course and involves several labs and exercises. Labs will combine Jupyter Labs and Computer Vision Learning Studio (CV Studio), a free learning tool for computer vision. CV Studio allows you to upload, train, and test your own custom image classifier and detection models.  At the end of the course, you will create your own computer vision web app and deploy it to the Cloud.
 
-This course does not require any prior Machine Learning or Computer Vision experience. However, some knowledge of the Python programming language and high school math is necessary.
-
-Top skills gained in this course: Category: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.
+**Skills gained in this course**: `Image Processing`, `Artificial Intelligence (AI)`, `Opencv`, `Computer Vision`, `Deep Learning`.
 
 ## Course Content and Notebooks
 
