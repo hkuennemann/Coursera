@@ -59,7 +59,7 @@ Description from Coursera: In this module you will learn the basic concepts of u
     - Pandas Integration
 
 
-### Module 5
+### Module 5 - Course Assignment
 
 Description from Coursera: In this module, you will be working with multiple real-world datasets for the city of Chicago. You will be asked questions that will help you understand the data just as you would in the real world. You will be assessed on the correctness of your SQL queries and results.
 
@@ -75,10 +75,17 @@ Description from Coursera: In this module, you will be working with multiple rea
     - Data Manipulation
     - Data Analysis
 
-5.2.
-- Description: .<br/>
+5.2.Final_assignment
+- Description: This notebook provided guidance on analyzing three datasets related to the city of Chicago: Socioeconomic Indicators, Chicago Public Schools, and Chicago Crime Data. The process involved loading these datasets into an SQLite database and executing various SQL queries to extract insights and address specific questions. The focus was on exploring public safety, education, and socioeconomic factors in Chicago through data loading, SQL query execution, and problem-solving.<br/>
 - Main Topics:
+    - Data Loading
+    - SQLite Database
+    - SQL Queries
+    - Socioeconomic Analysis
+    - Public Safety
+    - Education Data
+    - Crime Analysis
 
-### Module 6 (Honors)
+### Module 6 - Advanced SQL for Data Engineer (Honors)
 
 Description from Coursera:
