@@ -88,4 +88,7 @@ Description from Coursera: In this module, you will be working with multiple rea
 
 ### Module 6 - Advanced SQL for Data Engineer (Honors)
 
-Description from Coursera:
+Description from Coursera: This module covers some advanced SQL techniques that will be useful for Data Engineers. In this module, you will learn how to build more powerful queries with advanced SQL techniques like views, transactions, stored procedures, and joins.
+
+#### Notebooks
+
