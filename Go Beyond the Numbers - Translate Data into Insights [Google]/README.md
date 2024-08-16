@@ -13,9 +13,20 @@ Description: I learned how to find stories within data and share them with my au
 Description: In this module, I focused on organizing and interpreting raw data to uncover stories using Exploratory Data Analysis (EDA). I learned how to leverage Python to efficiently perform EDA practices, including discovering patterns and refining data to reveal meaningful insights.
 
 #### Notebooks
-- Notebook
-  - Description: 
-  - Main Topics:
+2.1.Annotated follow-along guide_EDA using basic data functions with Python
+- Describtion: In this notebook, I performed an Exploratory Data Analysis (EDA) on the `eda_using_basic_data_functions_in_python_dataset1.csv` file, derived from the BigQuery public dataset `noaa_lightning.lightning_strikes`. The dataset contains aggregated cloud-to-ground lightning strike data from Vaisala's National Lightning Detection Network (NLDN), organized into 0.1° latitude by 0.1° longitude tiles, with each tile's strikes summed and assigned to central geographic coordinates.<br/>
+- Main Topics:
+  - EDA on lightning strike data
+  - Data aggregation and interpretation
+  - Geographic data analysis
+  - Python data functions
+
+2.2.Unicorn valuation.ipynb
+- Describtion: This notebook was about exploring a dataset of unicorn companies to gain insights into their characteristics and valuations. I performed an Exploratory Data Analysis (EDA) using Python to discover trends and patterns within the data. I visualized key metrics such as the time it took companies to reach unicorn status and the maximum valuation of companies by industry.<br/>
+- Main Topics:
+  - Data exploration and analysis
+  - Dataset characteristics and structure
+  - Data visualization using Python
 
 
 ## Disclaimer
