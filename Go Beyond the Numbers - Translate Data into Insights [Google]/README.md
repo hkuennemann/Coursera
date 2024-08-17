@@ -14,7 +14,7 @@ Description: In this module, I focused on organizing and interpreting raw data t
 
 #### Notebooks
 2.1.fAnnotated follow-along guide_EDA using basic data functions with Python
-- Description: In this notebook, I performed an Exploratory Data Analysis (EDA) on the `eda_using_basic_data_functions_in_python_dataset1.csv` file, derived from the BigQuery public dataset `noaa_lightning.lightning_strikes`. The dataset contains aggregated cloud-to-ground lightning strike data from Vaisala's National Lightning Detection Network (NLDN), organized into 0.1° latitude by 0.1° longitude tiles, with each tile's strikes summed and assigned to central geographic coordinates.<br/>
+- Description: In this notebook, I performed an Exploratory Data Analysis (EDA) on the <<eda_using_basic_data_functions_in_python_dataset1.csv>> file, derived from the BigQuery public dataset <<noaa_lightning.lightning_strikes>>. The dataset contains aggregated cloud-to-ground lightning strike data from Vaisala's National Lightning Detection Network (NLDN), organized into 0.1° latitude by 0.1° longitude tiles, with each tile's strikes summed and assigned to central geographic coordinates.<br/>
 - Main Topics:
   - EDA on lightning strike data
   - Data aggregation and interpretation
@@ -38,6 +38,28 @@ Description: In this module, I focused on organizing and interpreting raw data t
   - Data grouping and summarization
   - Data formatting and labeling
   - Data visualization
+
+
+2.4.Guide_EDA structuring with Python
+- Description: In this notebook, I practiced structuring and analyzing lightning strike data in Python, focusing on data from the National Oceanic and Atmospheric Association (NOAA) for 2018. The notebook guided me through various data manipulation techniques, including sorting, grouping, and calculating percentages, and culminated in visualizing data patterns over time.<br/>
+- Main Topics
+  - Datetime Conversion
+  - Duplicate Check
+  - Data Sorting
+  - Grouping & Aggregation
+  - Plotting & Visualization
+  - Data Concatenation
+
+
+2.5.EDA_unicornCompanies
+- Desription: This notebook detailed an exploratory data analysis (EDA) activity focused on structuring and analyzing a dataset of unicorn companies — those valued at over one billion dollars. The objective was to gain insights into the dataset by performing various datetime transformations, structuring the data, and using visualizations. I worked with Python libraries such as `pandas`, `numpy`, `seaborn`, and `matplotlib.pyplot` to import, explore, and visualize the data, ultimately uncovering trends and patterns related to the unicorn companies' founding years and valuation over time.<br/>
+- Main Topics
+  - Data Exploration**
+  - Sorting
+  - Datetime Conversion
+  - Trend Analysis
+  - Visualization
+  - Results and Evaluation
 
 ## Disclaimer
 This project notebook is part of the coursework for "Go Beyond the Numbers: Translate Data into Insights" on Coursera (🔗 [Go to course](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight)). It is intended for educational purposes only. For official content and certification, please refer to the Coursera course page.
