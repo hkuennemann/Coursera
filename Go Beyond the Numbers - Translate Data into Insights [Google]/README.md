@@ -113,10 +113,82 @@ Main Topics:
 
 
 ### Module 4 - Data Visualizations and Presentations
-Description: You’ll practice creating and presenting data stories in an ethical, accessible, and professional way. You'll also explore advanced data visualization techniques in Tableau.</br>
+Description: I practiced creating and presenting data stories in an ethical, accessible, and professional way. I also explored advanced data visualization techniques in Tableau.</br>
 Submodules:
 - Present a story
 - Advanced Tableau
+
+#### Tableau Workbooks
+Lightning_Strikes_US2018
+- Introduction to Tableau
+
+
+Seoul Avg bike rentals 2018 
+- Introduction to Tableau
+
+
+Craft_compeling_stories
+- Description: This task was about creating a data visualization story using Tableau Public. It involved building various visualizations and dashboards that depicted the trend of lightning strikes in the U.S. from 2009 to 2018. I learned Tableau functionalities such as creating worksheets, filtering data, annotating, and designing dashboards, culminating in the construction of a compelling narrative through data visualization.<br/>
+- Main Topics:
+  - Data Filtering
+  - Annotation
+  - Data Visualization Types (Line Graph, Map)
+  - Geographic Data Configuration
+  - Dashboard Design
+  - Storytelling with Data
+  - Data Filtering and Setting
+  - Color-Coding and Styling
+
+
+Present like a pro
+- Description: This task was about creating an interactive geographic dashboard using Tableau Public to present data on lightning strikes in the U.S. from 2009 to 2018. It involved building multiple worksheets, calculating metrics, and designing an interactive dashboard that allows users to filter and explore data dynamically. I used Tableau's functionalities like creating calculated fields, setting up geographic roles, and configuring dashboard actions to enhance the data presentation.<br/>
+- Main Topics:
+  - Data visualization
+  - Tableau worksheets
+  - Geographic roles
+  - Calculated fields
+  - Dashboard actions
+  - Interactive filtering
+  - Data storytelling
+
+
+### Module 5 - 
+Descripton: In this end-of-course project, I practiced using Python to perform EDA on a workplace scenario dataset. Then, I used Python and Tableau to visualize the data.<br/>
+
+#### Notebooks
+5.1.Automatidata_project:
+- Description: This notebook focuses on Exploratory Data Analysis (EDA) and data visualization using Python. As a data professional at the fictional consulting firm Automatidata, I was tasked with analyzing New York City Taxi and Limousine Commission (TLC) data to understand taxi ridership patterns. The goal was to perform data cleaning, outlier analysis, and create visualizations that help convey insights about taxi trips in New York City.<br/>
+- Main Topics:
+  - Data Cleaning
+  - Exploratory Data Analysis (EDA)
+  - Outlier Detection
+  - Data Visualization with Python (Matplotlib/Seaborn)
+  - Reporting and Insights Communication
+
+
+5.2.TikTok_project:
+- Description: This notebook is about conducting Exploratory Data Analysis (EDA) on a TikTok dataset. It guided me through data cleaning, visualization, and identifying key insights to inform data-driven decisions. The analysis included creating visualizations using Python (matplotlib and seaborn) to explore variables such as video views, likes, shares, and author ban status.<br/>
+- Main Topics:
+  - Data Cleaning
+  - Data Exploration
+  - Data Visualization
+  - Outlier Detection
+  - Insights and Summary
+
+
+5.3.Waze_project:
+- Description: This notebook focused on conducting an exploratory data analysis (EDA) on a dataset from Waze. The goal was to investigate user behavior patterns and visualize key metrics to understand user churn, which will aid in making data-driven decisions. The notebook includes steps for data cleaning, analysis, visualization, and summarizing insights.<br/>
+- Main Topic:
+  - Data Cleaning
+  - Missing Data Analysis
+  - Outlier Detection
+  - Statistical Summary
+  - Data Visualization
+  - User Behavior Analysis
+  - Churn Analysis
+  - Visualization Interpretation
+  - Insights Communication
+
 
 ## Disclaimer
 This project notebook is part of the coursework for "Go Beyond the Numbers: Translate Data into Insights" on Coursera (🔗 [Go to course](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight)). It is intended for educational purposes only. For official content and certification, please refer to the Coursera course page.
