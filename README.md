@@ -52,7 +52,7 @@ I had the chance to practice what I learned through hands-on labs, working with 
   
 - 🌟 *Skills acquired*: `Python Programming`, `Effective Communication`, `Tableau Software`, `Data Visualization`, `Exploratory Data Analysis (EDA)`.<br/>
   
-- 🔄 *Status*: WIP<br/>
+- ✅ *Status*: compelted<br/>
   
 - 🔗 [Go to course website](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight)
 
